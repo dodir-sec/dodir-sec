@@ -1,4 +1,4 @@
-### 🔭 What I'm currently working on:
+### 🔭 What we are currently working on:
 - [teeto] - [Chrome extension]
 
 ### 🤝 How to connect with us:
