@@ -2,7 +2,7 @@
 - [teeto] - [Chrome extension]
 
 ### 🤝 How to connect with us:
-- [Twitter]([Your Twitter URL](https://twitter.com/DodirSec))
+- [Twitter]([@DodirSec](https://twitter.com/DodirSec))
 - 📫 How to reach us: [dodir.sec@gmail.com]
 
 ⭐️ From [dodir](https://github.com/dodir-sec)
