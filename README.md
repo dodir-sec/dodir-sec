@@ -3,7 +3,7 @@
 
 ### 🤝 How to connect with us:
 [![Twitter](https://img.shields.io/badge/-@DodirSec?style=for-the-badge&logo=twitter&logoColor=white&label=twitter)](https://twitter.com/DodirSec)&nbsp;
-- 📫 How to reach me: [dodir.sec@gmail.com]
+- 📫 How to reach us: [dodir.sec@gmail.com]
 
 ⭐️ From [dodir](https://github.com/dodir-sec)
   
