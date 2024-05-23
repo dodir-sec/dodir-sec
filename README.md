@@ -1,5 +1,5 @@
 ### 🌐 Our Projects:
-- [Teeto](https://chromewebstore.google.com/detail/teeto/jkonpljnfkapenfcfdhmilkbmnbalnml?hl=en&authuser=0)-Web App Security Companion - Easily identify endpoints, secrets, and parameters.
+- [Teeto](https://chromewebstore.google.com/detail/teeto/jkonpljnfkapenfcfdhmilkbmnbalnml?hl=en&authuser=0) - Web App Security Companion - Easily identify endpoints, secrets, and parameters.
 - Check out our GitHub repositories for a variety of security tools and resources.
 
 ### 🤝 How to connect with us:
