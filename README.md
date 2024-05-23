@@ -3,6 +3,7 @@
 
 ### 🤝 How to connect with us:
 - [Twitter](https://twitter.com/DodirSec)
+- [Medium](https://medium.com/@dodir.sec)
 - 📫 How to reach us: [dodir.sec@gmail.com]
 
 ⭐️ From [dodir](https://github.com/dodir-sec)
